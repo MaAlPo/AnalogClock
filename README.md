@@ -2,8 +2,9 @@
 <head></head>
 <body>
   <h1>Clock</h1>
-  <h4>Used:<h4>
-  <ul style="list-style: none">
+    <img src="clock.png" alt="Clock`s image">
+  <h4>Used:</h4>
+  <ul>
     <li>Html</li>
     <li>CSS</li>
     <li>JS</li>
